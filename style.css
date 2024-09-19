@@ -1,0 +1,27 @@
+* {
+    background-color: palevioletred;
+    color: aqua;
+    padding: 0;
+    margin: 30;
+}
+
+.heading h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.heading p {
+    padding-left: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    padding-top: 30px;
+}
+
+img {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
